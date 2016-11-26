@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>投票报名</title>
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="/stylesheets/style.css">
+</head>
+<body>
+<div class="box">
+    <div class="header_re">
+        <div class="title">
+            <img src="/images/title.png" alt="">
+        </div>
+    </div>
+    <div class="content_re">
+        <form action="">
+            <div class="form-con">
+                <label for="username"><p class="form-title">姓名：</p></label>
+                <input type="text" placeholder="请输入姓名" name="username" id="username" class="form-input username">
+            </div>
+            <div class="form-con">
+                <label for="password"><p class="form-title">密码：</p></label>
+                <input type="password" placeholder="数字或字母长度不能超过10个" name="password" id="password"
+                       class="form-input password"
+                       maxlength="10">
+            </div>
+            <div class="form-con">
+                <label for="passwordTwo"><p class="form-title">确认密码：</p></label>
+                <input type="password" placeholder="数字或字母长度不能超过10个" name="passwordTwo" id="passwordTwo" class="form-input rePassword"
+                       maxlength="10">
+            </div>
+            <div class="form-con">
+                <label for="phone"><p class="form-title">手机号：</p></label>
+                <input type="text" placeholder="请填写正确格式的手机号" name="phone" id="phone" class="form-input phone">
+            </div>
+            <div class="form-con">
+                <label for="mySelf"><p class="form-title">自我描述：</p></label>
+                <input type="text" placeholder="填写自我描述，20个字以内" name="mySelf" id="mySelf" class="form-input direction"
+                       maxlength="20">
+            </div>
+            <div class="form-con sex">
+                <p class="form-title">性别：</p>
+            </div>
+            <div class="form-con form-sex">
+                <div class="searchOne">
+                    <input type="radio" name="name" checked id="boy"/><span>男</span>
+                </div>
+                <div class="searchOne">
+                    <input type="radio" name="name"  id="girl"/><span>女</span>
+                </div>
+            </div>
+            <div class="form-con">
+                <div class="btn">
+                    提交
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<script src="/javascripts/zepto.min.js"></script>
+<script src="/javascripts/index1.js"></script>
+</body>
+</html>

@@ -1,0 +1,213 @@
+{
+  "errno": 0,
+  "msg": "success",
+  "data": {
+    "total": 108,
+    "offset": 0,
+    "limit": 1,
+    "objects": [
+      {
+        "username": "canfoo",
+        "mobile": "18289742007",
+        "description": "想要的，就去追求，别废话！",
+        "gender": "boy",
+        "password": "123",
+        "head_icon": "/images/boy.png",
+        "id": 1,
+        "vote": 6,
+        "rank": 1,
+        "vote_times": 1,
+        "vfriend": [
+          {
+            "username": "卡卡西",
+            "mobile": "18289742007",
+            "description": "世界只有没有实力的人，才整天希望别人赞赏",
+            "gender": "boy",
+            "password": "123",
+            "head_icon": "/images/boy.png",
+            "id": 3,
+            "vote": 0,
+            "rank": 0,
+            "vote_times": 1,
+            "vfriend": [],
+            "time": 1474512437000
+          },
+          {
+            "username": "鸣人",
+            "mobile": "18289742007",
+            "description": "说到做到，这就是我的忍道！",
+            "gender": "boy",
+            "password": "123",
+            "head_icon": "/images/boy.png",
+            "id": 2,
+            "vote": 0,
+            "rank": 0,
+            "vote_times": 1,
+            "vfriend": [],
+            "time": 1474512389000
+          },
+          {
+            "username": "canfoo",
+            "mobile": "18289742007",
+            "description": "想要的，就去追求，别废话！",
+            "gender": "boy",
+            "password": "123",
+            "head_icon": "/images/boy.png",
+            "id": 1,
+            "vote": 0,
+            "rank": 0,
+            "vote_times": 1,
+            "vfriend": [],
+            "time": 1474512296000
+          },
+          {
+            "username": "纲手",
+            "mobile": "18289742007",
+            "description": "人因为有难忘的回忆所以才变得坚强",
+            "gender": "girl",
+            "password": "123",
+            "head_icon": "/images/girl.png",
+            "id": 4,
+            "vote": 1,
+            "rank": 3,
+            "vote_times": 3,
+            "vfriend": [],
+            "time": 1474512510000
+          },
+          {
+            "username": "小樱",
+            "mobile": "18289742007",
+            "description": "总有一天，我会追上你们的",
+            "gender": "girl",
+            "password": "123",
+            "head_icon": "/images/girl.png",
+            "id": 5,
+            "vote": 0,
+            "rank": 0,
+            "vote_times": 1,
+            "vfriend": [],
+            "time": 1474512846000
+          },
+          {
+            "username": "佐助",
+            "mobile": "18289742007",
+            "description": "孤独是变强的过程",
+            "gender": "boy",
+            "password": "123",
+            "head_icon": "/images/boy.png",
+            "id": 6,
+            "vote": 0,
+            "rank": 0,
+            "vote_times": 1,
+            "vfriend": [],
+            "time": 1474512891000
+          }
+        ]
+      }
+    ]
+  }
+}
+{
+  "errno": 0,
+  "msg": "success",
+  "data": [
+    {
+      "username": "canfoo",
+      "mobile": "18289742007",
+      "description": "想要的，就去追求，别废话！",
+      "gender": "boy",
+      "password": "123",
+      "head_icon": "/images/boy.png",
+      "id": 1,
+      "vote": 6,
+      "rank": 1,
+      "vote_times": 1,
+      "vfriend": [
+        {
+          "username": "卡卡西",
+          "mobile": "18289742007",
+          "description": "世界只有没有实力的人，才整天希望别人赞赏",
+          "gender": "boy",
+          "password": "123",
+          "head_icon": "/images/boy.png",
+          "id": 3,
+          "vote": 0,
+          "rank": 0,
+          "vote_times": 1,
+          "vfriend": [],
+          "time": 1474512437000
+        },
+        {
+          "username": "鸣人",
+          "mobile": "18289742007",
+          "description": "说到做到，这就是我的忍道！",
+          "gender": "boy",
+          "password": "123",
+          "head_icon": "/images/boy.png",
+          "id": 2,
+          "vote": 0,
+          "rank": 0,
+          "vote_times": 1,
+          "vfriend": [],
+          "time": 1474512389000
+        },
+        {
+          "username": "canfoo",
+          "mobile": "18289742007",
+          "description": "想要的，就去追求，别废话！",
+          "gender": "boy",
+          "password": "123",
+          "head_icon": "/images/boy.png",
+          "id": 1,
+          "vote": 0,
+          "rank": 0,
+          "vote_times": 1,
+          "vfriend": [],
+          "time": 1474512296000
+        },
+        {
+          "username": "纲手",
+          "mobile": "18289742007",
+          "description": "人因为有难忘的回忆所以才变得坚强",
+          "gender": "girl",
+          "password": "123",
+          "head_icon": "/images/girl.png",
+          "id": 4,
+          "vote": 1,
+          "rank": 3,
+          "vote_times": 3,
+          "vfriend": [],
+          "time": 1474512510000
+        },
+        {
+          "username": "小樱",
+          "mobile": "18289742007",
+          "description": "总有一天，我会追上你们的",
+          "gender": "girl",
+          "password": "123",
+          "head_icon": "/images/girl.png",
+          "id": 5,
+          "vote": 0,
+          "rank": 0,
+          "vote_times": 1,
+          "vfriend": [],
+          "time": 1474512846000
+        },
+        {
+          "username": "佐助",
+          "mobile": "18289742007",
+          "description": "孤独是变强的过程",
+          "gender": "boy",
+          "password": "123",
+          "head_icon": "/images/boy.png",
+          "id": 6,
+          "vote": 0,
+          "rank": 0,
+          "vote_times": 1,
+          "vfriend": [],
+          "time": 1474512891000
+        }
+      ]
+    }
+  ]
+}
